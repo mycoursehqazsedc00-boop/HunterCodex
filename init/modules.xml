@@ -1,0 +1,7 @@
+<!--
+HunterCodex Module Loader
+-->
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <!-- ZHunter (zButtons) Module - ENABLED -->
+  <Include file="..\modules\zhunter\loader.xml"/>
+</Ui>
